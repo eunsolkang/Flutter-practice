@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import './Layout.dart';
+import 'layout.dart';
 import './returnArguments.dart';
-import './PassArguments.dart';
+import 'passArguments.dart';
 import './route.dart';
 
 class MyApp extends StatelessWidget {
